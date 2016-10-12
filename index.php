@@ -7,7 +7,7 @@ class Pico {
     }
 
 }
-$worker = new Pico();
+$miPlico = new Pico();
 
 if(isset($_POST['placa'])){ $placa = $_POST['placa']; } 
 
